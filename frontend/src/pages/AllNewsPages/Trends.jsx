@@ -16,7 +16,7 @@ const Games = () => {
     setLoading(true);
     setError(null);
     try {
-      const res = await axios.get("http://localhost:5000/post/get/trends", {
+      const res = await axios.get("http://localhost:5000/post/get/trend", {
         withCredentials: true,
       });
       const posts = res.data.posts || res.data;
