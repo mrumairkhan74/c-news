@@ -2,9 +2,9 @@
 
 *Empowering Your Voice Through Dynamic News Engagement*
 
-![Last Commit](https://img.shields.io/github/last-commit/arunakiran74/c-news)
+![Last Commit](https://img.shields.io/github/last-commit/mrumairkhan74/c-news)
 ![Node](https://img.shields.io/badge/node-%3E%3D17.0.0-brightgreen)
-![License](https://img.shields.io/github/license/arunakiran74/c-news)
+![License](https://img.shields.io/github/license/mrumairkhan74/c-news)
 
 **Built with the tools and technologies:**
 
